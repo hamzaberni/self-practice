@@ -6,12 +6,12 @@ function logger (somethingNew) {
 
 function theDivOfTwoNumbers (x , y) {
 
-    console.log(y / x);
+    /* console.log (y / x); */
 
-    let sum = -5;
-    sum = y / x;
+    let number = 0;
+    number = y / x;
 
-    return sum;
+    return number;
 }
 
 logger (theDivOfTwoNumbers(5 , 10))
