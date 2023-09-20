@@ -1,0 +1,21 @@
+body { 
+    background-color: rgb(230, 204, 182);
+}
+body {
+    height: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+h1 {
+    font-family: serif;
+    font-style: oblique;
+    font-size:larger, larger;
+    break-after: auto;
+}
+
+h2{
+    font-style: oblique;
+    font-family: serif;
+}
